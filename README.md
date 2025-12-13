@@ -4,7 +4,7 @@ Using GEM5 for Cache optimizations under RISCV MinorCPU
 If you have not downloaded GEM5, please refer to its website and scon it in classical set-up.
 
 
-Testbenches are stream.c and stream_64byte.c which are already configured by gnu toolchain as stream_2MB and stream_64; we run all experiments under both testbenches.
+Testbenches are stream.c and stream_64byte.c which are already configured by riscv gnu toolchain as stream_2MB and stream_64; we run all experiments under both testbenches.
 Note the testbenches both require long time to simulate; do test_rv64 for functionality check.
 
 Running file is done by ./build/ALL/gem5.opt ./desired_file_path
