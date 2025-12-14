@@ -1,5 +1,5 @@
 # ECE401_gem5_FP
-Using GEM5 emulations for Cache optimizations under RISCV MinorCPU
+Using GEM5 to emulate the impacts of cache optimizations under RISCV MinorCPU
 
 If you have not downloaded GEM5, please refer to its website and scon it in classical set-up.
 
